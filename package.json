@@ -1,0 +1,15 @@
+{
+  "name": "github-mcp-server",
+  "private": true,
+  "workspaces": [
+    "github"
+  ],
+  "scripts": {
+    "build": "yarn workspace github build",
+    "prepare": "yarn workspace github prepare"
+  },
+  "packageManager": "yarn@4.5.1",
+  "devDependencies": {
+    "@types/node-fetch": "^2.6.12"
+  }
+}
