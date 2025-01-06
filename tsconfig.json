@@ -9,6 +9,5 @@
     "forceConsistentCasingInFileNames": true,
     "resolveJsonModule": true
   },
-  "include": ["src/**/*"],
   "exclude": ["node_modules"]
 }
