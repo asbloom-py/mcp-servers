@@ -2,6 +2,8 @@
 
 MCP Server for the GitHub API, enabling file operations, repository management, search functionality, and more.
 
+<a href="https://glama.ai/mcp/servers/bnif4b1rh6"><img width="380" height="200" src="https://glama.ai/mcp/servers/bnif4b1rh6/badge" alt="GitHub Server MCP server" /></a>
+
 ### Features
 
 - **Automatic Branch Creation**: When creating/updating files or pushing changes, branches are automatically created if they don't exist
