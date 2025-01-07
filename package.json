@@ -8,8 +8,9 @@
     "build": "yarn workspace github build",
     "prepare": "yarn workspace github prepare"
   },
-  "packageManager": "yarn@4.5.1",
+  "packageManager": "yarn@4.6.0",
   "devDependencies": {
-    "@types/node-fetch": "^2.6.12"
+    "@types/node-fetch": "^2.6.12",
+    "typescript": "^5.7.2"
   }
 }
